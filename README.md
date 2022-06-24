@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asryan11
+- 👋 Hi, I’m Aryan Sahay
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on some e-Commerce Website
