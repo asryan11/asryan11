@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Sahay
-- 🌱 I’m currently learning Java and C.
+- 🌱 I’m currently learning Java, C++ and Data Structure using C.
 - 📫 How to reach me @asryan11 on Instagram or asryan2004@gmail.com through mail.
 
 <!---
